@@ -1,0 +1,13 @@
+prefix=/Users/ChiragSP/Data Science Projects/LLM_RAG/venv
+exec_prefix=/Users/ChiragSP/Data Science Projects/LLM_RAG/venv
+libdir=/Users/ChiragSP/Data Science Projects/LLM_RAG/venv/lib
+sharedlibdir=/Users/ChiragSP/Data Science Projects/LLM_RAG/venv/lib
+includedir=/Users/ChiragSP/Data Science Projects/LLM_RAG/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
