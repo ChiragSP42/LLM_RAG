@@ -6,3 +6,4 @@ venv
 model/
 tokenizer/
 chroma_data/
+VectorStore.py
