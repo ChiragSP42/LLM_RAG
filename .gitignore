@@ -2,4 +2,7 @@
 Stock_related_definitions.pdf
 Stock_related_definitions.txt
 .env
-.venv
+venv
+model/
+tokenizer/
+chroma_data/

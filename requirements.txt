@@ -1,3 +1,7 @@
 chromadb
 sentence_transformers
 python-dotenv
+wikipedia
+torch
+transformers
+huggingface_hub
